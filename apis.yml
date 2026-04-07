@@ -7,11 +7,11 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Privacy
-  - Security
-  - Framework
   - Compliance
   - Data Protection
+  - Framework
+  - Privacy
+  - Security
 url: >-
   https://raw.githubusercontent.com/api-evangelist/privacy-by-design/refs/heads/main/apis.yml
 created: '2026-03-16'
