@@ -5,6 +5,17 @@ description: >-
   into the design and operation of IT systems, networked infrastructure, and
   business practices from the ground up, rather than as an afterthought.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
